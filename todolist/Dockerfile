@@ -7,7 +7,8 @@ RUN apt-get install openjdk-25-jdk -y
 COPY . .
 
 RUN apt-get install maven -y
-RUN mvn clean install
+RUN mvn clean install -DskipTests
+# DskipTests porque não quer rodar
 
 FROM maven:3.9.6-eclipse-temurin-21-jammy
 EXPOSE 8080

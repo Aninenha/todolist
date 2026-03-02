@@ -24,4 +24,14 @@ O uso começa pela criação do usuário, constando os atributos Nome ("name"), 
 
 ## Como funciona
 
+### Criação de usuário
+
+### Criação de tarefa
+
+### Atualização de tarefas
+
+### Listar tarefas
+
+### Tratamento de exceções
+
 ## Diferenças entre o projeto e o modelo do curso

@@ -26,6 +26,8 @@ O uso começa pela criação do usuário, constando os atributos Nome ("name"), 
 
 ### Criação de usuário
 
+O sistema recebe as informações Nome, Nome de Usuário e Senha, e associa a um Id gerado
+
 ### Criação de tarefa
 
 ### Atualização de tarefas
